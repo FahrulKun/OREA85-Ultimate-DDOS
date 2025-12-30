@@ -1,0 +1,23 @@
+# 🎯 Target List - OREA85 Ultimate DDOS
+
+## Format
+```
+IP:PORT:DESCRIPTION
+```
+
+## Examples
+```
+192.168.1.1:80:Test Server
+example.com:443:Web Server
+10.0.0.1:22:SSH Server
+```
+
+## Instructions
+1. Add targets below this line
+2. Use format: IP:PORT:DESCRIPTION
+3. One target per line
+4. Empty lines and comments starting with # are ignored
+
+---
+192.168.1.100:80:Local Web Server
+example.com:443:Example Website
